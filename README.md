@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bm07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...pyhton 
+- 👀 I’m interested in data science 
+- 🌱 I’m currently learning pyhton 
 - 📫 How to reach me ...
 
 <!---
